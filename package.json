@@ -1,0 +1,8 @@
+{
+  "name": "Discord",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discordjs-commanderjs": "^3.0.0"
+  }
+}
