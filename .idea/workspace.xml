@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f315fe69-1291-4a55-b0d3-7ba3b9d44723" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/commands/ds.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/AS/2019/AS2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/COMEIT/MANA2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/COMEIT/MANA2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/COO/COO2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/DROIT/DROIT2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/DROIT/DROIT2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/GESTION/GESTION2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/MSI/MSI2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/NAW/NAW2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/PDS/PDS2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ressources/L3/PF/PF2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/commands/ds.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +59,7 @@
       <updated>1575797722965</updated>
       <workItem from="1575797725274" duration="4267000" />
       <workItem from="1575835329023" duration="6453000" />
-      <workItem from="1576318958425" duration="1068000" />
+      <workItem from="1576318958425" duration="1679000" />
     </task>
     <servers />
   </component>

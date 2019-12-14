@@ -39,6 +39,7 @@ class ds extends Command {
        // });
         const tree = dree.parse('../resources/.');
         console.log(tree);
+        message.channel.send(tree);
     }
 
     onError(err, message) {
