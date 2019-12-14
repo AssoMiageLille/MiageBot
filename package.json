@@ -2,6 +2,7 @@
   "name": "MiageBot",
   "version": "1.0.0",
   "dependencies": {
+    "dree": "^2.2.1",
     "discord.js": "^11.5.1",
     "discordjs-commanderjs": "^3.0.0"
   },
