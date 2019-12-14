@@ -49,4 +49,4 @@ class ds extends Command {
 
 }
 
-module.exports = help;
+module.exports = ds;

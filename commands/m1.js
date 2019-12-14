@@ -1,7 +1,7 @@
 const {Command} = require('discordjs-commanderjs');
 const {RichEmbed} = require('discord.js');
 
-class help extends Command {
+class m1 extends Command {
 
     constructor() {
         //option ci dessous
@@ -46,4 +46,4 @@ class help extends Command {
 
 }
 
-module.exports = help;
+module.exports = m1;
