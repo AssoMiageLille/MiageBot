@@ -37,8 +37,11 @@ class ds extends Command {
        //     else
        //         message.member.removeRole(x);
        // });
-        const tree = dree.parse('../resources/.');
-        console.log(tree);
+        const options = {
+          followLinks: true,
+          depth: 5
+        };
+        const tree = dree.parse('../resources/.', options);
         message.channel.send(tree);
     }
 
